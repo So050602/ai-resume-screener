@@ -2,10 +2,10 @@
 import streamlit as st
 import pandas as pd
 
-from modules.pdf_parser import extract_text
-from modules.ranking import calculate_similarity
-from modules.skill_extractor import extract_skills
-from modules.ai_summary import generate_ai_summary
+from pdf_parser import extract_text
+from ranking import calculate_similarity
+from skill_extractor import extract_skills
+from ai_summary import generate_ai_summary
 
 # ---------------------------------------------------
 # PAGE CONFIG
