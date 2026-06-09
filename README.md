@@ -1,6 +1,5 @@
 # AI Resume Screener & Candidate Ranking System
 
-# AI Resume Screener & Candidate Ranking System
 
 🚀 Live Demo:
 https://ai-resume-screener-mengrjxtcqmb4senfxq9ps.streamlit.app/
