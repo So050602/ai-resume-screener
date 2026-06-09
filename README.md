@@ -1,5 +1,15 @@
 # AI Resume Screener & Candidate Ranking System
 
+# AI Resume Screener & Candidate Ranking System
+
+🚀 Live Demo:
+https://ai-resume-screener-mengrjxtcqmb4senfxq9ps.streamlit.app/
+
+📂 Source Code:
+https://github.com/So050602/ai-resume-screener
+
+---
+
 ## Overview
 
 AI Resume Screener is an intelligent candidate evaluation platform that automates resume screening, skill-gap analysis, and candidate ranking against a given Job Description (JD).
